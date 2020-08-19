@@ -1,11 +1,12 @@
 import React from "react";
 
 const CardDrink = () => {
+
   return (
     <div className="flex flex-col justify-center items-center max-w-sm mx-auto">
       <div
         className="bg-gray-300 h-64 w-full rounded-lg shadow-md bg-cover bg-center"
-      >
+        >
           <img src="https://images.unsplash.com/photo-1507281549113-040fcfef650e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt=""/>
       </div>
 
