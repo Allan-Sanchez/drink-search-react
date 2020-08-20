@@ -65,7 +65,7 @@ const FormDrink = () => {
       <div className="">
         <button
           type="submit"
-          className="bg-red-500 w-2/3  hover:bg-blue-700 text-white font-bold py-3  px-4 rounded"
+          className="bg-red-500 w-2/3  hover:bg-red-600 text-white font-bold py-3  px-4 rounded"
         >
           Find a recipe
         </button>

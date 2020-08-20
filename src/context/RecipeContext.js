@@ -28,7 +28,7 @@ const RecipeProvider = (props) => {
     }, [search,consult,nameDrink,category]);
     return (  
         <RecipeContext.Provider
-        value={{setSearch,setConsult}}
+        value={{recipe,setSearch,setConsult}}
         >
             {props.children}
         </RecipeContext.Provider>
