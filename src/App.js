@@ -16,7 +16,6 @@ function App() {
               Drink Search
             </h1>
             <FormDrink />
-            {/* <Modal/> */}
             <CardDrink />
           </div>
         </ModalProvider>
